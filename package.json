@@ -3,7 +3,7 @@
   "title": "The MBS Wallet Core library",
   "description": "The MBS Wallet Core library handling the crypto wallet interactions",
   "author": "Tuan Nguyen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
