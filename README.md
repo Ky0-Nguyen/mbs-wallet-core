@@ -1,19 +1,15 @@
 ## 🅒🅖🅒 Coingrig Core
 The Coingrig Core library handling the wallet interactions
 
-### Usage in your project
-Import the library in your project with `yarn add @coingrig/core`
-
-### Library Development setup
+### Setup
 Run `yarn`. (Installs dependencies and links packages in the workspace.)
 
-#### Compilation
+### Compilation
 Create an `.env` file to configure the platform: `TESTNET=true|false`.  
 The default value is `TESTNET=false`.
 
-#### Test
-Jest tests are set up to run with `TESTNET=true yarn test`. 
-
+### Test
+Jest tests are set up to run with `TESTNET=true yarn test`.  
 
 ---
 
@@ -220,7 +216,7 @@ The source of all addresses to be generated for the public.</p>
 | --- | --- | --- |
 | BTC | <code>string</code> | <p>&quot;BTC&quot;</p> |
 | ETH | <code>string</code> | <p>&quot;ETH&quot;</p> |
-| MATIC | <code>string</code> | <p>&quot;MATIC&quot;</p> |
+| POLYGON | <code>string</code> | <p>&quot;POLYGON&quot;</p> |
 | BSC | <code>string</code> | <p>&quot;BSC&quot;</p> |
 
 
